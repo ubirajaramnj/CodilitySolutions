@@ -40,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CoutingElements\FrogRiverOne.cs" />
+    <Compile Include="CoutingElements\MissingInteger.cs" />
     <Compile Include="CoutingElements\PermCheck.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TimeComplexity\FrogJump.cs" />
